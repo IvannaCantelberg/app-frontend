@@ -1,4 +1,4 @@
-# AdminApp
+# AdminApp Frontend Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
@@ -12,7 +12,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build` to build the project. The build artifacts will be stored in the `static` directory of [backend](https://github.com/IvannaCantelberg/app-backend) project.
 
 ## Running unit tests
 
